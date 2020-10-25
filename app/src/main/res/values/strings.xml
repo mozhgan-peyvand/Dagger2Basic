@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dagger2Basic</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AddNote">AddNote</string>
+    <string name="SaveButten">save</string>
+    <string name="CancelButton">cancel</string>
+    <string name="sing_in">ثبت نام</string>
+    <string name="btn_register">ثبت نام</string>
+    <string name="btn_login">ورود</string>
+    <string name="enter_as"> ورود به عنوان :</string>
+    <string name="professor">استاد</string>
+    <string name="student">دانشجو</string>
+    <string name="view_field">مشاهدی دروس</string>
+    <string name="view_content">مشاهده ی محتوا</string>
+    <string name="test">شرکت درازمون</string>
+    <string name="content">content</string>
+    <string name="test1">Test</string>
+</resources>
